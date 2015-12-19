@@ -1,0 +1,9 @@
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\gui.Form1.resources
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\gui.Properties.Resources.resources
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\gui.csproj.GenerateResource.Cache
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\Debug\gui.exe.config
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\Debug\gui.exe
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\Debug\gui.pdb
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\gui.exe
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\gui.pdb
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\gui.csprojResolveAssemblyReference.cache

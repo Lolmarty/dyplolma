@@ -1,0 +1,13 @@
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\interface.csproj.GenerateResource.Cache
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\Debug\WindowsFormsApplication1.exe.config
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\Debug\WindowsFormsApplication1.exe
+D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\Debug\WindowsFormsApplication1.pdb

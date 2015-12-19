@@ -1,0 +1,49 @@
+﻿Build started 29.05.2015 16:03:44.
+     1>Project "D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\engine-iteration-1\engine-iteration-1.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (engine-iteration-1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\FANN-2.2.0-Source\src\include" /ID:\Downloads\opencv\build\x86\vc12\..\..\include /I"D:\jsoncpp-src-0.5.0\include\json" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp optics.cpp parameters.cpp Source1.cpp
+         Source1.cpp
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(96): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(97): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(98): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(423): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(424): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(425): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(665): warning C4101: 'united_mask_image' : unreferenced local variable
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(728): warning C4101: 'united_mask_image' : unreferenced local variable
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\source1.cpp(533): warning C4101: 'length_of_arg' : unreferenced local variable
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\source1.cpp(530): warning C4101: 'filesize' : unreferenced local variable
+         parameters.cpp
+         optics.cpp
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(96): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(97): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(98): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(423): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(424): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(425): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(665): warning C4101: 'united_mask_image' : unreferenced local variable
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(728): warning C4101: 'united_mask_image' : unreferenced local variable
+         main.cpp
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(96): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(97): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(98): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(423): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(424): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(425): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(665): warning C4101: 'united_mask_image' : unreferenced local variable
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(728): warning C4101: 'united_mask_image' : unreferenced local variable
+         Generating Code...
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(70): warning C4715: 'routine_handler' : not all control paths return a value
+     1>d:\_old\librr\dyploma\vsproj\engine-iteration-1\engine-iteration-1\optics.cpp(70): warning C4715: 'routine_handler' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\Debug\engine.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\jsoncpp-src-0.5.0\build\vs71\debug\lib_json" /LIBPATH:D:\Downloads\opencv\build\x86\vc12\lib /LIBPATH:D:\Downloads\opencv\build\x86\vc12\bin /LIBPATH:"D:\FANN-2.2.0-Source\bin" fannfloat.lib json_vc71_libmtd.lib opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_core2411d.lib opencv_features2d2411d.lib opencv_flann2411d.lib opencv_gpu2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_legacy2411d.lib opencv_ml2411d.lib opencv_nonfree2411d.lib opencv_objdetect2411d.lib opencv_ocl2411d.lib opencv_photo2411d.lib opencv_stitching2411d.lib opencv_superres2411d.lib opencv_ts2411d.lib opencv_video2411d.lib opencv_videostab2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\Debug\engine.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\Debug\engine.lib" /MACHINE:X86 Debug\main.obj
+         Debug\optics.obj
+         Debug\parameters.obj
+         Debug\Source1.obj
+         engine-iteration-1.vcxproj -> D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\Debug\engine.exe
+     1>Done Building Project "D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\engine-iteration-1\engine-iteration-1.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.81

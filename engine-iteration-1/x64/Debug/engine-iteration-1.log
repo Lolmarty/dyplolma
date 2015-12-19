@@ -1,0 +1,53 @@
+﻿Build started 15.05.2015 17:11:52.
+     1>Project "D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\engine-iteration-1\engine-iteration-1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"D:\FANN-2.2.0-Source\src\include" /ID:\Downloads\opencv\build\x64\vc12\..\..\include /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "..\..\engine-test-0\engine-test-0\engine-test-0\optics.cpp" "..\..\engine-test-0\engine-test-0\engine-test-0\parameters.cpp" "..\..\engine-test-0\engine-test-0\engine-test-0\Source.cpp" "..\..\engine-test-0\engine-test-0\engine-test-0\Source1.cpp"
+         Source1.cpp
+     1>d:\_old\librr\dyploma\vsproj\engine-test-0\engine-test-0\engine-test-0\optics.cpp(195): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>d:\_old\librr\dyploma\vsproj\engine-test-0\engine-test-0\engine-test-0\optics.cpp(197): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>..\..\engine-test-0\engine-test-0\engine-test-0\Source1.cpp(29): warning C4005: 'LEARNING_FRAMES' : macro redefinition
+                 d:\_old\librr\dyploma\vsproj\engine-test-0\engine-test-0\engine-test-0\parameters.cpp(7) : see previous definition of 'LEARNING_FRAMES'
+     1>..\..\engine-test-0\engine-test-0\engine-test-0\Source1.cpp(294): warning C4101: 'length_of_arg' : unreferenced local variable
+     1>..\..\engine-test-0\engine-test-0\engine-test-0\Source1.cpp(291): warning C4101: 'filesize' : unreferenced local variable
+         Source.cpp
+         parameters.cpp
+         optics.cpp
+     1>..\..\engine-test-0\engine-test-0\engine-test-0\optics.cpp(195): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\engine-test-0\engine-test-0\engine-test-0\optics.cpp(197): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\x64\Debug\engine-iteration-1.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\Downloads\opencv\build\x64\vc12\lib /LIBPATH:D:\Downloads\opencv\build\x64\vc12\bin /LIBPATH:"D:\FANN-2.2.0-Source\bin" fannfloat.lib opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_core2411d.lib opencv_features2d2411d.lib opencv_flann2411d.lib opencv_gpu2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_legacy2411d.lib opencv_ml2411d.lib opencv_nonfree2411d.lib opencv_objdetect2411d.lib opencv_ocl2411d.lib opencv_photo2411d.lib opencv_stitching2411d.lib opencv_superres2411d.lib opencv_ts2411d.lib opencv_video2411d.lib opencv_videostab2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\x64\Debug\engine-iteration-1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\x64\Debug\engine-iteration-1.lib" /MACHINE:X64 x64\Debug\optics.obj
+         x64\Debug\parameters.obj
+         x64\Debug\Source.obj
+         x64\Debug\Source1.obj
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_get_bit_fail referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_test_data referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_read_train_from_file referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_destroy_train referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_scale_train_data referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_num_input_train_data referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_num_output_train_data referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_set_training_algorithm referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_set_learning_rate referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_set_activation_function_hidden referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_set_activation_function_output referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_set_train_error_function referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_set_train_stop_function referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_set_bit_fail_limit referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_cascadetrain_on_data referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_set_cascade_activation_functions referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_set_cascade_activation_steepnesses referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_set_cascade_num_candidate_groups referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_save referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_create_shortcut referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_destroy referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_run referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_randomize_weights referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_print_connections referenced in function main
+     1>Source.obj : error LNK2019: unresolved external symbol __imp_fann_print_parameters referenced in function main
+     1>D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\x64\Debug\engine-iteration-1.exe : fatal error LNK1120: 25 unresolved externals
+     1>Done Building Project "D:\_Old\librr\Dyploma\VSProj\engine-iteration-1\engine-iteration-1\engine-iteration-1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.57
